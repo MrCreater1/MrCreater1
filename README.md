@@ -29,6 +29,32 @@
 
 <p align="center"> <img src="./LeetCode.png" alt="Ayan Dey LeetCode Statistics" width="900"/> </p>
 
+💻 Skills
+
+🎨 Front-End
+
+React.js • JavaScript (ES6+) • HTML5 • CSS3 • Responsive Design
+
+⚙️ Back-End
+
+Spring Boot • Spring MVC • Spring Data JPA • REST APIs
+
+☁️ Database & Cloud
+
+MySQL • AWS • AWS Cloud Essentials Certified
+
+👨‍💻 Programming Languages
+
+C++ • Java • JavaScript
+
+🛠️ Tools & Practices
+
+Git • GitHub • Maven • Docker • Team Collaboration • Debugging • Object-Oriented Programming • Data Structures and Algorithms
+
+🌟 Additional Skills
+
+Leadership • Communication • Problem Solving • Adaptability
+
 
 ## 🏆 GitHub Trophies
 
